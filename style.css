@@ -1,0 +1,20 @@
+body{ 
+    background: url( https://images.rawpixel.com/image_social_landscape/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3JtMjE4YmF0Y2g5LW15bnQtNjMuanBn.jpg );
+background-size: cover;
+} 
+.card{ 
+    height: 500px;
+  width: 800px; 
+  background: url( https://png.pngtree.com/background/20211217/original/pngtree-aesthetic-plain-background-with-pastel-colors-picture-image_1596087.jpg );
+background-repeat: no-repeat;
+top: 22%;
+left: 19%;
+position: absolute;
+color: rgb(234, 12, 12);
+padding-left: 300px;
+padding-top: 50px;
+}
+ 
+#back{ 
+    visibility: hidden;
+}
